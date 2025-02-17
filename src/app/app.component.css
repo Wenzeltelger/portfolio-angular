@@ -1,0 +1,14 @@
+.spacer {
+    flex: 1;
+  }
+  
+  mat-toolbar {
+    background: #1a1a2e; /* Un fondo oscuro para contraste */
+    color: white;
+  }
+  
+  a[mat-button] {
+    color: white;
+    font-weight: bold;
+  }
+  

@@ -1,1 +1,13 @@
-/* You can add global styles to this file, and also import other style files */
+html, body {
+    background-color: #e0e0e0; /* Color gris */
+    margin: 0;
+    height: 100%;
+    font-family: Arial, sans-serif;
+  }
+  
+  .home-container {
+    text-align: center;
+    margin-top: 50px;
+    color: #333; /* Texto oscuro para mejor contraste */
+  }
+  
